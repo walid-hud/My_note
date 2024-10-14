@@ -75,6 +75,6 @@ if(isset($_SESSION['saved'])){
     </form>
 </div>
 
-    
+<script src="edit.js"></script>
 </body>
 </html>
